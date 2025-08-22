@@ -7,6 +7,8 @@ import {Swiper, SwiperSlide} from 'swiper/react';
 import 'swiper/css';
 import sliderOneImg from '../../assets/images/banner-1.jpg';
 import sliderTwoImg from '../../assets/images/banner-2.jpg';
+import LatestProducts from "./LatestProducts.jsx";
+import FeaturedProducts from "./FeaturedProducts.jsx";
 
 
 const Home = () => {
@@ -74,6 +76,10 @@ const Home = () => {
                     </SwiperSlide>
                 </Swiper>
             </section>
+
+            <LatestProducts />
+
+            <FeaturedProducts />
         </>
     );
 };

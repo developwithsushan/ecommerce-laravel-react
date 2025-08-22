@@ -21,4 +21,8 @@ Now installing more react packages (inside frontend folder)
  npm i react-router-dom
  npm install react-hook-form
  npm i react-toastify
+ 
+ npm install react-bootstrap bootstrap
+ 
+ npm i swiper
 ```
