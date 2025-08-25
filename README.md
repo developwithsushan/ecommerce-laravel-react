@@ -25,4 +25,6 @@ Now installing more react packages (inside frontend folder)
  npm install react-bootstrap bootstrap
  
  npm i swiper
+ 
+npm i react-simple-star-rating
 ```

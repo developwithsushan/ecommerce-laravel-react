@@ -1,10 +1,10 @@
 import React from "react";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'swiper/css';
-import Layout from "./Layout.jsx";
-import Hero from "./Hero.jsx";
-import LatestProducts from "./LatestProducts.jsx";
-import FeaturedProducts from "./FeaturedProducts.jsx";
+import Layout from "./common/Layout.jsx";
+import Hero from "./common/Hero.jsx";
+import LatestProducts from "./common/LatestProducts.jsx";
+import FeaturedProducts from "./common/FeaturedProducts.jsx";
 
 
 const Home = () => {
